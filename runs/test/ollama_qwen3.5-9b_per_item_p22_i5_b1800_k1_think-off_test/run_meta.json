@@ -1,0 +1,55 @@
+{
+ "run_name": "ollama_qwen3.5-9b_per_item_p22_i5_b1800_k1_think-off_test",
+ "args": {
+  "backend": "ollama",
+  "model": "qwen3.5:9b",
+  "set": "test",
+  "mode": "per_item",
+  "budget": 1800,
+  "num_ctx": 8192,
+  "max_new": 1024,
+  "items": "test5",
+  "prompt": "decomposed",
+  "k": 1,
+  "sc_temperature": 0.7,
+  "think": "off",
+  "host": "http://localhost:11434",
+  "base_url": "http://localhost:8080/v1",
+  "energy": true,
+  "run_name": null,
+  "out": "C:\\Users\\esad_\\OneDrive\\Masa\u00fcst\u00fc\\Akademi\\Doktora\\Ekstra Yay\u0131nlar\\Ekstra PeerJ\\screener\\runs",
+  "frozen": true,
+  "workbook": "C:\\Users\\esad_\\OneDrive\\Masa\u00fcst\u00fc\\Akademi\\Doktora\\Ekstra Yay\u0131nlar\\Ekstra PeerJ\\screener\\annotation_sheet_v1.3.xlsx"
+ },
+ "prompt_version": "codebook1.3-p2.2",
+ "prompt_sha256": "290c18668b9a7053",
+ "backend": {
+  "backend": "ollama",
+  "model": "qwen3.5:9b",
+  "num_ctx": 8192,
+  "think": false,
+  "digest": "6488c96fa5faab64bb65cbd30d4289e20e6130ef535a93ef9a49f42eda893ea7",
+  "size_bytes": 6594474711,
+  "details": {
+   "parent_model": "",
+   "format": "gguf",
+   "family": "qwen35",
+   "families": [
+    "qwen35"
+   ],
+   "parameter_size": "9.7B",
+   "quantization_level": "Q4_K_M",
+   "context_length": 262144,
+   "embedding_length": 4096
+  },
+  "ollama_version": "0.34.4"
+ },
+ "python": "3.11.15",
+ "platform": "Windows-10-10.0.26300-SP0",
+ "started_utc": "2026-10-06T04:41:55+00:00",
+ "n_papers": 80,
+ "already_done": 0,
+ "code_sha256": "3ed2afc7d232314ae96c85e1921d8a086b22aa510ff3e240554a9b536ae92b75",
+ "test_lock": "OK",
+ "finished_utc": "2026-10-06T05:20:13+00:00"
+}

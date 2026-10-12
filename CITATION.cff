@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the archived release and the article."
+title: "Local-LLM methodology-risk screener for deep-learning medical-imaging papers"
+type: software
+version: 1.0.0
+date-released: 2026-12-01
+license: MIT
+authors:
+  - family-names: "Çelik"
+    given-names: "Esat Fazlullah"
+    affiliation: "Manisa Celal Bayar University"
+    email: "esat.celik@cbu.edu.tr"
+keywords:
+  - large language models
+  - medical image classification
+  - data leakage
+  - research reproducibility
+  - preregistration

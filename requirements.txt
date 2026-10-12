@@ -1,0 +1,4 @@
+openpyxl>=3.1
+pytest>=8
+# optional, only for CPU/in-process runs without Ollama:
+# llama-cpp-python>=0.3

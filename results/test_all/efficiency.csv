@@ -1,0 +1,12 @@
+run,papers,quotes,quote_exact,quote_fuzzy,quote_unverified,sec_per_paper,energy_j_per_paper,peak_vram_mib,prompt_tokens_per_paper,completion_tokens_per_paper,parse_failures_total
+rules_per_item_i5_b1800_k1_test,80,280,1.0000,0.0000,0.0000,0.0421,NA,NA,0.0000,0.0000,0
+ollama_qwen3-8b_per_item_p22_i5_b1800_k1_think-off_test,80,597,0.8861,0.0905,0.0235,28.1781,NA,6451.0000,9216.6125,596.8625,0
+hybrid__ollama_qwen3-8b_per_item_p22_i5_b1800_k1_think-off_test,80,535,0.9028,0.0822,0.0150,17.9450,NA,6451.0000,6124.5000,394.9250,0
+ollama_qwen3.5-9b_per_item_p22_i5_b1800_k1_think-off_test,80,647,0.8671,0.0773,0.0556,28.7151,NA,7050.0000,9256.2875,547.8500,0
+ollama_llama3.1-8b_per_item_p22_i5_b1800_k1_think-default_test,80,776,0.7139,0.2655,0.0206,26.2259,NA,7045.0000,8721.7125,557.2125,0
+ollama_gemma3-4b_per_item_p22_i5_b1800_k1_think-default_test,80,1080,0.0907,0.8037,0.1056,22.0722,NA,5848.0000,9239.8375,621.1500,0
+ollama_qwen3-8b_per_item_p11_i5_b1800_k1_think-off_test,80,475,0.8211,0.1516,0.0274,30.8902,NA,6167.0000,9341.1625,717.0250,0
+ollama_qwen3-8b_per_item_p22_i5_b900_k1_think-off_test,80,549,0.9053,0.0729,0.0219,25.1212,NA,6509.0000,5810.0000,539.0500,0
+ollama_qwen3-8b_per_item_p22_i5_b3600_k1_think-off_test,80,584,0.8545,0.1164,0.0291,30.3687,NA,6306.0000,14488.7000,565.5625,0
+ollama_qwen3-8b_per_item_p22_i5_b1800_k5_think-off_test,80,694,0.8458,0.1210,0.0331,121.5642,NA,6302.0000,45992.1625,2887.1875,0
+ollama_qwen3-8b_per_item_p22_i5_b1800_k1_think-on_test,80,653,0.5727,0.3384,0.0888,105.3572,NA,6302.0000,9285.4000,4092.6500,0

@@ -1,0 +1,168 @@
+{
+  "_note": "Edit on DEV only. Test plan: docs/analysis_plan.md (frozen v1.0 before any test run). Gold freeze: python -m mrscreen.freeze annotation_sheet_v1.3.xlsx",
+  "hardware": "RTX 4060 8 GB VRAM, 16 GB RAM",
+  "ollama_env": {
+    "OLLAMA_FLASH_ATTENTION": "1",
+    "OLLAMA_KV_CACHE_TYPE": "q8_0",
+    "_why": "quantised KV cache roughly halves context memory so 8B models fit with num_ctx 8192"
+  },
+  "models_candidates": [
+    {
+      "tag": "qwen3:8b",
+      "params_b": 8.2,
+      "note": "verify current tag on ollama.com/library; supports think on/off"
+    },
+    {
+      "tag": "qwen3:4b",
+      "params_b": 4.0,
+      "note": "same family, size effect"
+    },
+    {
+      "tag": "gemma3:4b",
+      "params_b": 4.3,
+      "note": "different family"
+    },
+    {
+      "tag": "phi4-mini",
+      "params_b": 3.8,
+      "note": "different family, long context"
+    },
+    {
+      "tag": "llama3.1:8b",
+      "params_b": 8.0,
+      "note": "widely used reference"
+    },
+    {
+      "tag": "qwen3.5:9b",
+      "params_b": 9.7,
+      "note": "March 2026, fits 8 GB at Q4_K_M (6.6 GB)"
+    }
+  ],
+  "main_config": {
+    "mode": "per_item",
+    "budget": 1800,
+    "num_ctx": 8192,
+    "k": 1,
+    "think": "off"
+  },
+  "ablations_on_best_two_models": [
+    {
+      "name": "whole_paper_one_call",
+      "mode": "all_items",
+      "budget": 6000,
+      "num_ctx": 8192
+    },
+    {
+      "name": "small_context",
+      "mode": "per_item",
+      "budget": 900
+    },
+    {
+      "name": "large_context",
+      "mode": "per_item",
+      "budget": 3600
+    },
+    {
+      "name": "self_consistency_k5",
+      "mode": "per_item",
+      "budget": 1800,
+      "k": 5
+    },
+    {
+      "name": "thinking_on",
+      "mode": "per_item",
+      "budget": 1800,
+      "think": "on",
+      "max_new": 2048
+    }
+  ],
+  "policies_scored_automatically": [
+    "raw",
+    "verified"
+  ],
+  "baseline": {
+    "backend": "rules"
+  },
+  "primary_metrics": [
+    "per-item Cohen's kappa with bootstrap 95% CI",
+    "macro-F1",
+    "RISK sensitivity and PPV",
+    "paper-level any-leakage-risk sensitivity/PPV"
+  ],
+  "secondary_metrics": [
+    "evidence-quote validity",
+    "seconds, energy (J) and peak VRAM per paper",
+    "parse failures"
+  ],
+  "tests": "exact McNemar per item between configurations, Holm correction within each comparison",
+  "round1_dev_2026-09-26": {
+    "prompt": "p1.0 direct",
+    "result": "mean kappa: rules 0.30, qwen3:8b 0.32, llama3.1:8b 0.16, gemma3:4b 0.06 (dev, A5 included). Main errors: label-vocabulary misuse (A2 N/A->UNCLEAR, B2/B1/C1 over-called YES). Energy not recorded (nvidia-smi flag bug, fixed)."
+  },
+  "round2_plan": {
+    "prompt": "p2.0 decomposed (facts -> codebook logic)",
+    "policies": [
+      "raw",
+      "verified",
+      "gated"
+    ],
+    "runs": [
+      "qwen3:8b --think off",
+      "llama3.1:8b",
+      "gemma3:4b",
+      "qwen3.5:9b --think off (current generation, 6.6 GB)"
+    ],
+    "optional": [
+      "qwen3.5:9b --prompt direct (p1 vs p2 on the newest model)"
+    ]
+  },
+  "design_change_2026-09-27": "Test set: 80 papers, 5 items (A1, A4, B2, C1, C2), codebook v1.3, decided before any test labels were used (previous test labels failed QC and were discarded). Dev results on all 11 items go to the supplement.",
+  "round2_dev_2026-09-27": {
+    "mean_kappa_11_items": {
+      "rules": 0.4,
+      "qwen3:8b p1": 0.45,
+      "qwen3:8b p2 gated": 0.47,
+      "llama3.1:8b p2 gated": 0.4,
+      "qwen3.5:9b p2 gated": 0.37,
+      "gemma3:4b p2 gated": 0.19
+    },
+    "mean_kappa_5_items": {
+      "rules": 0.45,
+      "qwen3:8b p2 gated": 0.52,
+      "llama3.1:8b p2 gated": 0.5,
+      "qwen3.5:9b p2 gated": 0.49
+    },
+    "note": "dev gold C1/B2/C2 were partly corrected via keyword-based possible-miss flags; this favours the rule baseline on those items (report as limitation)."
+  },
+  "dev_rescored_2026-10-05": {
+    "why": "9 dev/pilot B2 labels and one C2 quote corrected (checker v0.12 bug hid ± with decimals)",
+    "mean_kappa_5_items": {
+      "rules": 0.515,
+      "qwen3:8b p2 gated": 0.597,
+      "llama3.1:8b p2 gated": 0.581,
+      "qwen3.5:9b p2 gated": 0.564,
+      "qwen3:8b p1 raw": 0.566,
+      "gemma3:4b p2 gated": 0.364,
+      "hybrid qwen3:8b (rules on B2,C1)": 0.658
+    },
+    "tables": "results/dev_rescored_test5, results/dev_rescored_all"
+  },
+  "round3_plan": {
+    "prompts": "p2.2 decomposed / p1.1 direct, aligned with codebook v1.3 (B2: own-model metric incl. CV, p-value alone is not variability; C2: partly public data -> RESTRICTED)",
+    "runs": "scripts/run_dev_round3.bat (rules + 4 models decomposed + qwen3:8b direct), items test5, dev set",
+    "then": "fill [DEV3] in docs/analysis_plan.md, freeze plan v1.0 (OSF), then test runs"
+  },
+  "dev_round3_2026-10-06": {
+    "mean_kappa_5_items": {
+      "rules": 0.515,
+      "qwen3:8b p2.2 gated": 0.614,
+      "qwen3.5:9b p2.2 gated": 0.611,
+      "llama3.1:8b p2.2 gated": 0.514,
+      "gemma3:4b p2.2 gated": 0.367,
+      "qwen3:8b p1.1 gated": 0.588,
+      "hybrid qwen3:8b": 0.65
+    },
+    "tables": "results/dev_round3"
+  },
+  "test_plan": "FROZEN: docs/analysis_plan.md v1.0 + configs/test_lock.json; scripts/run_test_core.bat then scripts/run_test_ablations.bat"
+}

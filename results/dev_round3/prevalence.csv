@@ -1,0 +1,17 @@
+item,label,k,n,prop,lo,hi
+A1_split_unit,SAFE,16,40,0.4000,0.2635,0.5540
+A1_split_unit,RISK,1,40,0.0250,0.0044,0.1288
+A1_split_unit,UNCLEAR,23,40,0.5750,0.4220,0.7149
+A4_test_for_selection,SAFE,14,40,0.3500,0.2213,0.5049
+A4_test_for_selection,RISK,4,40,0.1000,0.0396,0.2305
+A4_test_for_selection,UNCLEAR,22,40,0.5500,0.3983,0.6929
+B2_variability_reported,YES,21,40,0.5250,0.3750,0.6706
+B2_variability_reported,NO,19,40,0.4750,0.3294,0.6250
+C1_code_available,YES,6,40,0.1500,0.0706,0.2907
+C1_code_available,REQUEST,1,40,0.0250,0.0044,0.1288
+C1_code_available,NO,33,40,0.8250,0.6805,0.9125
+C2_data_available,PUBLIC,13,40,0.3250,0.2008,0.4798
+C2_data_available,RESTRICTED,21,40,0.5250,0.3750,0.6706
+C2_data_available,NO,6,40,0.1500,0.0706,0.2907
+PAPER_any_leakage_risk,FLAG,5,40,0.1250,0.0546,0.2611
+PAPER_not_verifiably_safe,FLAG,29,40,0.7250,0.5717,0.8389

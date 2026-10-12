@@ -1,0 +1,12 @@
+{
+  "sha256": "483d4647fe6fea7afccaedc6b7a120a17e6a9353b5d832c5d88e0bb3569d8667",
+  "papers": {
+    "pilot": 20,
+    "dev": 20,
+    "test": 80
+  },
+  "codebook": "v1.3 (test: A1, A4, B2, C1, C2)",
+  "workbook": "annotation_sheet_v1.3.xlsx",
+  "frozen_utc": "2026-10-05T00:29:07+00:00",
+  "rule": "No label or quote may change after this point. Any correction must be logged with a reason and reported in the paper; the original frozen file is kept."
+}

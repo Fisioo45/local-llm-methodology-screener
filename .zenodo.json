@@ -1,0 +1,11 @@
+{
+  "title": "Local-LLM methodology-risk screener for deep-learning medical-imaging papers: code, gold standard and results",
+  "upload_type": "software",
+  "description": "Code, preregistered test lock, frozen gold standard (120 openly licensed 2025 papers, 5 items with evidence quotes), model outputs and evaluation results for the article 'Can Small Local Language Models Screen Deep-Learning Medical-Imaging Papers for Methodology Risks? A Preregistered Evaluation Against a Human Gold Standard'.",
+  "creators": [
+    {"name": "Çelik, Esat Fazlullah", "affiliation": "Manisa Celal Bayar University"}
+  ],
+  "license": "MIT",
+  "keywords": ["large language models", "medical image classification", "data leakage", "reproducibility", "preregistration"],
+  "access_right": "open"
+}

@@ -1,0 +1,4880 @@
+[
+{
+"pmcid": "PMC11483474",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 5313,
+"words_methodlike": 1843,
+"approx_tokens_total": 7172,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11634984",
+"article_type": "research-article",
+"n_sections": 16,
+"words_total": 4125,
+"words_methodlike": 2146,
+"approx_tokens_total": 5568,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11667687",
+"article_type": "research-article",
+"n_sections": 15,
+"words_total": 5778,
+"words_methodlike": 2276,
+"approx_tokens_total": 7800,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11680720",
+"article_type": "research-article",
+"n_sections": 16,
+"words_total": 3511,
+"words_methodlike": 881,
+"approx_tokens_total": 4739,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11695392",
+"article_type": "research-article",
+"n_sections": 14,
+"words_total": 5373,
+"words_methodlike": 2221,
+"approx_tokens_total": 7253,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11706309",
+"article_type": "research-article",
+"n_sections": 15,
+"words_total": 3851,
+"words_methodlike": 2436,
+"approx_tokens_total": 5198,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11707918",
+"article_type": "research-article",
+"n_sections": 50,
+"words_total": 8791,
+"words_methodlike": 3080,
+"approx_tokens_total": 11867,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11717794",
+"article_type": "research-article",
+"n_sections": 11,
+"words_total": 4320,
+"words_methodlike": 2209,
+"approx_tokens_total": 5832,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11719834",
+"article_type": "research-article",
+"n_sections": 13,
+"words_total": 3350,
+"words_methodlike": 679,
+"approx_tokens_total": 4522,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11719945",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 7532,
+"words_methodlike": 4108,
+"approx_tokens_total": 10168,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11724494",
+"article_type": "research-article",
+"n_sections": 15,
+"words_total": 6343,
+"words_methodlike": 2307,
+"approx_tokens_total": 8563,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11729117",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 3421,
+"words_methodlike": 1674,
+"approx_tokens_total": 4618,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11729609",
+"article_type": "research-article",
+"n_sections": 30,
+"words_total": 5038,
+"words_methodlike": 2679,
+"approx_tokens_total": 6801,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11732976",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 4251,
+"words_methodlike": 1528,
+"approx_tokens_total": 5738,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11740782",
+"article_type": "research-article",
+"n_sections": 31,
+"words_total": 7015,
+"words_methodlike": 2122,
+"approx_tokens_total": 9470,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11742393",
+"article_type": "research-article",
+"n_sections": 13,
+"words_total": 5465,
+"words_methodlike": 914,
+"approx_tokens_total": 7377,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11759462",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 4752,
+"words_methodlike": 3139,
+"approx_tokens_total": 6415,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11761908",
+"article_type": "research-article",
+"n_sections": 24,
+"words_total": 15888,
+"words_methodlike": 6412,
+"approx_tokens_total": 21448,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11762182",
+"article_type": "research-article",
+"n_sections": 24,
+"words_total": 3826,
+"words_methodlike": 1384,
+"approx_tokens_total": 5165,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11763248",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 11308,
+"words_methodlike": 6015,
+"approx_tokens_total": 15265,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11763917",
+"article_type": "research-article",
+"n_sections": 28,
+"words_total": 8446,
+"words_methodlike": 4301,
+"approx_tokens_total": 11402,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11763925",
+"article_type": "research-article",
+"n_sections": 12,
+"words_total": 5659,
+"words_methodlike": 1327,
+"approx_tokens_total": 7639,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11765744",
+"article_type": "research-article",
+"n_sections": 21,
+"words_total": 5514,
+"words_methodlike": 2510,
+"approx_tokens_total": 7443,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11766424",
+"article_type": "research-article",
+"n_sections": 9,
+"words_total": 4557,
+"words_methodlike": 883,
+"approx_tokens_total": 6151,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11771893",
+"article_type": "research-article",
+"n_sections": 13,
+"words_total": 6470,
+"words_methodlike": 3983,
+"approx_tokens_total": 8734,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11774367",
+"article_type": "research-article",
+"n_sections": 13,
+"words_total": 6779,
+"words_methodlike": 4154,
+"approx_tokens_total": 9151,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11781067",
+"article_type": "research-article",
+"n_sections": 27,
+"words_total": 3892,
+"words_methodlike": 1913,
+"approx_tokens_total": 5254,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11785394",
+"article_type": "research-article",
+"n_sections": 5,
+"words_total": 3666,
+"words_methodlike": 1340,
+"approx_tokens_total": 4949,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11786091",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 4590,
+"words_methodlike": 1266,
+"approx_tokens_total": 6196,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11794261",
+"article_type": "research-article",
+"n_sections": 25,
+"words_total": 5451,
+"words_methodlike": 2426,
+"approx_tokens_total": 7358,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11799055",
+"article_type": "research-article",
+"n_sections": 13,
+"words_total": 4243,
+"words_methodlike": 2194,
+"approx_tokens_total": 5728,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11805419",
+"article_type": "research-article",
+"n_sections": 17,
+"words_total": 6031,
+"words_methodlike": 4021,
+"approx_tokens_total": 8141,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11811177",
+"article_type": "research-article",
+"n_sections": 36,
+"words_total": 6830,
+"words_methodlike": 5008,
+"approx_tokens_total": 9220,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11811346",
+"article_type": "research-article",
+"n_sections": 8,
+"words_total": 3247,
+"words_methodlike": 792,
+"approx_tokens_total": 4383,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11813795",
+"article_type": "research-article",
+"n_sections": 21,
+"words_total": 4143,
+"words_methodlike": 1304,
+"approx_tokens_total": 5593,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11815955",
+"article_type": "research-article",
+"n_sections": 17,
+"words_total": 5221,
+"words_methodlike": 1829,
+"approx_tokens_total": 7048,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11816878",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 7665,
+"words_methodlike": 3911,
+"approx_tokens_total": 10347,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11817112",
+"article_type": "research-article",
+"n_sections": 48,
+"words_total": 12565,
+"words_methodlike": 5394,
+"approx_tokens_total": 16962,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11818623",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 5924,
+"words_methodlike": 1792,
+"approx_tokens_total": 7997,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11820013",
+"article_type": "research-article",
+"n_sections": 16,
+"words_total": 7031,
+"words_methodlike": 4380,
+"approx_tokens_total": 9491,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11825062",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 4175,
+"words_methodlike": 2166,
+"approx_tokens_total": 5636,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11828341",
+"article_type": "research-article",
+"n_sections": 15,
+"words_total": 5535,
+"words_methodlike": 1937,
+"approx_tokens_total": 7472,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11835854",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 7715,
+"words_methodlike": 4231,
+"approx_tokens_total": 10415,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11836176",
+"article_type": "research-article",
+"n_sections": 12,
+"words_total": 3760,
+"words_methodlike": 938,
+"approx_tokens_total": 5076,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11836373",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 6111,
+"words_methodlike": 1982,
+"approx_tokens_total": 8249,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11837479",
+"article_type": "research-article",
+"n_sections": 14,
+"words_total": 3997,
+"words_methodlike": 1592,
+"approx_tokens_total": 5395,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11837701",
+"article_type": "research-article",
+"n_sections": 12,
+"words_total": 4198,
+"words_methodlike": 1273,
+"approx_tokens_total": 5667,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11841465",
+"article_type": "research-article",
+"n_sections": 21,
+"words_total": 5400,
+"words_methodlike": 3044,
+"approx_tokens_total": 7290,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11851456",
+"article_type": "research-article",
+"n_sections": 28,
+"words_total": 5553,
+"words_methodlike": 2381,
+"approx_tokens_total": 7496,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11852041",
+"article_type": "research-article",
+"n_sections": 21,
+"words_total": 7318,
+"words_methodlike": 2885,
+"approx_tokens_total": 9879,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11852629",
+"article_type": "research-article",
+"n_sections": 78,
+"words_total": 10766,
+"words_methodlike": 6041,
+"approx_tokens_total": 14534,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11856240",
+"article_type": "research-article",
+"n_sections": 28,
+"words_total": 3412,
+"words_methodlike": 1005,
+"approx_tokens_total": 4606,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11856859",
+"article_type": "research-article",
+"n_sections": 38,
+"words_total": 8959,
+"words_methodlike": 3739,
+"approx_tokens_total": 12094,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11857081",
+"article_type": "research-article",
+"n_sections": 30,
+"words_total": 6464,
+"words_methodlike": 2483,
+"approx_tokens_total": 8726,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11861772",
+"article_type": "research-article",
+"n_sections": 27,
+"words_total": 4471,
+"words_methodlike": 2299,
+"approx_tokens_total": 6035,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11866614",
+"article_type": "research-article",
+"n_sections": 11,
+"words_total": 2938,
+"words_methodlike": 1310,
+"approx_tokens_total": 3966,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11868628",
+"article_type": "research-article",
+"n_sections": 32,
+"words_total": 13872,
+"words_methodlike": 4391,
+"approx_tokens_total": 18727,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11869539",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 4377,
+"words_methodlike": 2861,
+"approx_tokens_total": 5908,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11873101",
+"article_type": "research-article",
+"n_sections": 16,
+"words_total": 6629,
+"words_methodlike": 2115,
+"approx_tokens_total": 8949,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11876936",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 5737,
+"words_methodlike": 2677,
+"approx_tokens_total": 7744,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11882137",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 6593,
+"words_methodlike": 3120,
+"approx_tokens_total": 8900,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11887235",
+"article_type": "research-article",
+"n_sections": 25,
+"words_total": 5675,
+"words_methodlike": 2712,
+"approx_tokens_total": 7661,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11893424",
+"article_type": "research-article",
+"n_sections": 21,
+"words_total": 6401,
+"words_methodlike": 3903,
+"approx_tokens_total": 8641,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11898425",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 4830,
+"words_methodlike": 1229,
+"approx_tokens_total": 6520,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11898657",
+"article_type": "research-article",
+"n_sections": 9,
+"words_total": 5678,
+"words_methodlike": 1881,
+"approx_tokens_total": 7665,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11898873",
+"article_type": "research-article",
+"n_sections": 16,
+"words_total": 5209,
+"words_methodlike": 1483,
+"approx_tokens_total": 7032,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11899611",
+"article_type": "research-article",
+"n_sections": 17,
+"words_total": 8489,
+"words_methodlike": 2039,
+"approx_tokens_total": 11460,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11902609",
+"article_type": "research-article",
+"n_sections": 12,
+"words_total": 6099,
+"words_methodlike": 2731,
+"approx_tokens_total": 8233,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11902864",
+"article_type": "research-article",
+"n_sections": 7,
+"words_total": 6499,
+"words_methodlike": 3580,
+"approx_tokens_total": 8773,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11903279",
+"article_type": "research-article",
+"n_sections": 31,
+"words_total": 7139,
+"words_methodlike": 4724,
+"approx_tokens_total": 9637,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11912691",
+"article_type": "research-article",
+"n_sections": 21,
+"words_total": 5888,
+"words_methodlike": 1953,
+"approx_tokens_total": 7948,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11922808",
+"article_type": "research-article",
+"n_sections": 24,
+"words_total": 8022,
+"words_methodlike": 3018,
+"approx_tokens_total": 10829,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11927916",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 11819,
+"words_methodlike": 8390,
+"approx_tokens_total": 15955,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11928541",
+"article_type": "research-article",
+"n_sections": 17,
+"words_total": 4742,
+"words_methodlike": 2733,
+"approx_tokens_total": 6401,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11929326",
+"article_type": "research-article",
+"n_sections": 25,
+"words_total": 4224,
+"words_methodlike": 1757,
+"approx_tokens_total": 5702,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11929658",
+"article_type": "research-article",
+"n_sections": 12,
+"words_total": 5739,
+"words_methodlike": 969,
+"approx_tokens_total": 7747,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11933192",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 7421,
+"words_methodlike": 3912,
+"approx_tokens_total": 10018,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11936934",
+"article_type": "research-article",
+"n_sections": 12,
+"words_total": 5158,
+"words_methodlike": 3350,
+"approx_tokens_total": 6963,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11936986",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 5345,
+"words_methodlike": 3277,
+"approx_tokens_total": 7215,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11937600",
+"article_type": "research-article",
+"n_sections": 27,
+"words_total": 7022,
+"words_methodlike": 4596,
+"approx_tokens_total": 9479,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11937601",
+"article_type": "research-article",
+"n_sections": 31,
+"words_total": 12188,
+"words_methodlike": 7899,
+"approx_tokens_total": 16453,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11941083",
+"article_type": "research-article",
+"n_sections": 15,
+"words_total": 9349,
+"words_methodlike": 2371,
+"approx_tokens_total": 12621,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11944010",
+"article_type": "research-article",
+"n_sections": 15,
+"words_total": 9343,
+"words_methodlike": 5037,
+"approx_tokens_total": 12613,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11950469",
+"article_type": "research-article",
+"n_sections": 10,
+"words_total": 4674,
+"words_methodlike": 2268,
+"approx_tokens_total": 6309,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11950503",
+"article_type": "research-article",
+"n_sections": 26,
+"words_total": 4865,
+"words_methodlike": 2018,
+"approx_tokens_total": 6567,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11950579",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 3646,
+"words_methodlike": 1532,
+"approx_tokens_total": 4922,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11953181",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 4664,
+"words_methodlike": 2164,
+"approx_tokens_total": 6296,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11954740",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 5287,
+"words_methodlike": 2631,
+"approx_tokens_total": 7137,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11960629",
+"article_type": "research-article",
+"n_sections": 15,
+"words_total": 4847,
+"words_methodlike": 1312,
+"approx_tokens_total": 6543,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11968703",
+"article_type": "methods-article",
+"n_sections": 30,
+"words_total": 6571,
+"words_methodlike": 2558,
+"approx_tokens_total": 8870,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11970440",
+"article_type": "other",
+"n_sections": 6,
+"words_total": 3214,
+"words_methodlike": 0,
+"approx_tokens_total": 4338,
+"has_methodlike_heading": false
+},
+{
+"pmcid": "PMC11971367",
+"article_type": "research-article",
+"n_sections": 32,
+"words_total": 10510,
+"words_methodlike": 5806,
+"approx_tokens_total": 14188,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11971837",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 9647,
+"words_methodlike": 6029,
+"approx_tokens_total": 13023,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11974447",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 5373,
+"words_methodlike": 3509,
+"approx_tokens_total": 7253,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11975892",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 3671,
+"words_methodlike": 1824,
+"approx_tokens_total": 4955,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11975991",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 4724,
+"words_methodlike": 2030,
+"approx_tokens_total": 6377,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11979263",
+"article_type": "research-article",
+"n_sections": 10,
+"words_total": 6003,
+"words_methodlike": 2369,
+"approx_tokens_total": 8104,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11979982",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 4739,
+"words_methodlike": 604,
+"approx_tokens_total": 6397,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11981170",
+"article_type": "research-article",
+"n_sections": 13,
+"words_total": 5486,
+"words_methodlike": 2861,
+"approx_tokens_total": 7406,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11983456",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 3836,
+"words_methodlike": 1406,
+"approx_tokens_total": 5178,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11987621",
+"article_type": "research-article",
+"n_sections": 14,
+"words_total": 5461,
+"words_methodlike": 3164,
+"approx_tokens_total": 7372,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11988156",
+"article_type": "research-article",
+"n_sections": 24,
+"words_total": 6874,
+"words_methodlike": 2266,
+"approx_tokens_total": 9279,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11988322",
+"article_type": "research-article",
+"n_sections": 15,
+"words_total": 7693,
+"words_methodlike": 2823,
+"approx_tokens_total": 10385,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11994760",
+"article_type": "research-article",
+"n_sections": 17,
+"words_total": 6211,
+"words_methodlike": 2128,
+"approx_tokens_total": 8384,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11999292",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 7304,
+"words_methodlike": 5960,
+"approx_tokens_total": 9860,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11999632",
+"article_type": "research-article",
+"n_sections": 11,
+"words_total": 3380,
+"words_methodlike": 2319,
+"approx_tokens_total": 4563,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11999707",
+"article_type": "research-article",
+"n_sections": 21,
+"words_total": 6219,
+"words_methodlike": 3106,
+"approx_tokens_total": 8395,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC11999846",
+"article_type": "research-article",
+"n_sections": 14,
+"words_total": 5312,
+"words_methodlike": 2417,
+"approx_tokens_total": 7171,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12000039",
+"article_type": "research-article",
+"n_sections": 8,
+"words_total": 4324,
+"words_methodlike": 796,
+"approx_tokens_total": 5837,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12006410",
+"article_type": "research-article",
+"n_sections": 26,
+"words_total": 5120,
+"words_methodlike": 1864,
+"approx_tokens_total": 6912,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12008990",
+"article_type": "research-article",
+"n_sections": 8,
+"words_total": 4009,
+"words_methodlike": 450,
+"approx_tokens_total": 5412,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12011763",
+"article_type": "methods-article",
+"n_sections": 18,
+"words_total": 3664,
+"words_methodlike": 1070,
+"approx_tokens_total": 4946,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12020513",
+"article_type": "research-article",
+"n_sections": 9,
+"words_total": 5406,
+"words_methodlike": 2184,
+"approx_tokens_total": 7298,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12021809",
+"article_type": "research-article",
+"n_sections": 25,
+"words_total": 7433,
+"words_methodlike": 2359,
+"approx_tokens_total": 10034,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12022092",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 7227,
+"words_methodlike": 2724,
+"approx_tokens_total": 9756,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12024523",
+"article_type": "research-article",
+"n_sections": 17,
+"words_total": 2911,
+"words_methodlike": 932,
+"approx_tokens_total": 3929,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12024531",
+"article_type": "research-article",
+"n_sections": 17,
+"words_total": 5424,
+"words_methodlike": 4129,
+"approx_tokens_total": 7322,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12025211",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 5670,
+"words_methodlike": 1262,
+"approx_tokens_total": 7654,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12025728",
+"article_type": "research-article",
+"n_sections": 15,
+"words_total": 6555,
+"words_methodlike": 3748,
+"approx_tokens_total": 8849,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12027922",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 4772,
+"words_methodlike": 2236,
+"approx_tokens_total": 6442,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12028011",
+"article_type": "research-article",
+"n_sections": 24,
+"words_total": 7983,
+"words_methodlike": 4787,
+"approx_tokens_total": 10777,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12034867",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 4258,
+"words_methodlike": 1424,
+"approx_tokens_total": 5748,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12036548",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 5444,
+"words_methodlike": 2043,
+"approx_tokens_total": 7349,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12043696",
+"article_type": "research-article",
+"n_sections": 24,
+"words_total": 10354,
+"words_methodlike": 3928,
+"approx_tokens_total": 13977,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12052117",
+"article_type": "research-article",
+"n_sections": 14,
+"words_total": 5798,
+"words_methodlike": 2380,
+"approx_tokens_total": 7827,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12052540",
+"article_type": "research-article",
+"n_sections": 26,
+"words_total": 6550,
+"words_methodlike": 2434,
+"approx_tokens_total": 8842,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12052716",
+"article_type": "research-article",
+"n_sections": 36,
+"words_total": 16642,
+"words_methodlike": 9703,
+"approx_tokens_total": 22466,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12058334",
+"article_type": "research-article",
+"n_sections": 26,
+"words_total": 7787,
+"words_methodlike": 2805,
+"approx_tokens_total": 10512,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12062765",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 5902,
+"words_methodlike": 3732,
+"approx_tokens_total": 7967,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12063467",
+"article_type": "research-article",
+"n_sections": 31,
+"words_total": 5563,
+"words_methodlike": 2071,
+"approx_tokens_total": 7510,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12063847",
+"article_type": "research-article",
+"n_sections": 21,
+"words_total": 8363,
+"words_methodlike": 3363,
+"approx_tokens_total": 11290,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12066621",
+"article_type": "research-article",
+"n_sections": 16,
+"words_total": 5444,
+"words_methodlike": 2339,
+"approx_tokens_total": 7349,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12069047",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 4827,
+"words_methodlike": 3150,
+"approx_tokens_total": 6516,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12069281",
+"article_type": "research-article",
+"n_sections": 16,
+"words_total": 5501,
+"words_methodlike": 2599,
+"approx_tokens_total": 7426,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12070956",
+"article_type": "research-article",
+"n_sections": 13,
+"words_total": 3206,
+"words_methodlike": 1016,
+"approx_tokens_total": 4328,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12071678",
+"article_type": "research-article",
+"n_sections": 21,
+"words_total": 13885,
+"words_methodlike": 4143,
+"approx_tokens_total": 18744,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12072425",
+"article_type": "research-article",
+"n_sections": 27,
+"words_total": 4892,
+"words_methodlike": 2816,
+"approx_tokens_total": 6604,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12074408",
+"article_type": "research-article",
+"n_sections": 10,
+"words_total": 5707,
+"words_methodlike": 1877,
+"approx_tokens_total": 7704,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12074947",
+"article_type": "research-article",
+"n_sections": 11,
+"words_total": 6395,
+"words_methodlike": 2287,
+"approx_tokens_total": 8633,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12084453",
+"article_type": "research-article",
+"n_sections": 15,
+"words_total": 4820,
+"words_methodlike": 2484,
+"approx_tokens_total": 6507,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12085623",
+"article_type": "research-article",
+"n_sections": 12,
+"words_total": 4652,
+"words_methodlike": 1477,
+"approx_tokens_total": 6280,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12085910",
+"article_type": "research-article",
+"n_sections": 7,
+"words_total": 3215,
+"words_methodlike": 1523,
+"approx_tokens_total": 4340,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12088959",
+"article_type": "research-article",
+"n_sections": 30,
+"words_total": 10766,
+"words_methodlike": 5754,
+"approx_tokens_total": 14534,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12092319",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 7678,
+"words_methodlike": 3911,
+"approx_tokens_total": 10365,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12092909",
+"article_type": "research-article",
+"n_sections": 8,
+"words_total": 3051,
+"words_methodlike": 1218,
+"approx_tokens_total": 4118,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12094958",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 5170,
+"words_methodlike": 2503,
+"approx_tokens_total": 6979,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12098364",
+"article_type": "research-article",
+"n_sections": 24,
+"words_total": 3153,
+"words_methodlike": 1818,
+"approx_tokens_total": 4256,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12104720",
+"article_type": "research-article",
+"n_sections": 13,
+"words_total": 4418,
+"words_methodlike": 2131,
+"approx_tokens_total": 5964,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12105205",
+"article_type": "research-article",
+"n_sections": 44,
+"words_total": 8532,
+"words_methodlike": 5666,
+"approx_tokens_total": 11518,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12107882",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 2696,
+"words_methodlike": 1024,
+"approx_tokens_total": 3639,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12109275",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 4247,
+"words_methodlike": 2156,
+"approx_tokens_total": 5733,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12109281",
+"article_type": "research-article",
+"n_sections": 15,
+"words_total": 3706,
+"words_methodlike": 1278,
+"approx_tokens_total": 5003,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12119131",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 5020,
+"words_methodlike": 2257,
+"approx_tokens_total": 6777,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12119313",
+"article_type": "research-article",
+"n_sections": 24,
+"words_total": 6065,
+"words_methodlike": 4120,
+"approx_tokens_total": 8187,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12129765",
+"article_type": "research-article",
+"n_sections": 16,
+"words_total": 4353,
+"words_methodlike": 1312,
+"approx_tokens_total": 5876,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12133262",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 5743,
+"words_methodlike": 2781,
+"approx_tokens_total": 7753,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12135985",
+"article_type": "research-article",
+"n_sections": 24,
+"words_total": 9177,
+"words_methodlike": 4915,
+"approx_tokens_total": 12388,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12141237",
+"article_type": "research-article",
+"n_sections": 15,
+"words_total": 3608,
+"words_methodlike": 884,
+"approx_tokens_total": 4870,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12141588",
+"article_type": "research-article",
+"n_sections": 9,
+"words_total": 5854,
+"words_methodlike": 1214,
+"approx_tokens_total": 7902,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12141739",
+"article_type": "research-article",
+"n_sections": 11,
+"words_total": 3635,
+"words_methodlike": 1842,
+"approx_tokens_total": 4907,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12142743",
+"article_type": "research-article",
+"n_sections": 14,
+"words_total": 3029,
+"words_methodlike": 1547,
+"approx_tokens_total": 4089,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12143367",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 7896,
+"words_methodlike": 4026,
+"approx_tokens_total": 10659,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12143801",
+"article_type": "research-article",
+"n_sections": 25,
+"words_total": 9358,
+"words_methodlike": 4415,
+"approx_tokens_total": 12633,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12148044",
+"article_type": "research-article",
+"n_sections": 26,
+"words_total": 7135,
+"words_methodlike": 4930,
+"approx_tokens_total": 9632,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12148559",
+"article_type": "research-article",
+"n_sections": 24,
+"words_total": 7350,
+"words_methodlike": 2666,
+"approx_tokens_total": 9922,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12151474",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 7544,
+"words_methodlike": 4911,
+"approx_tokens_total": 10184,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12152023",
+"article_type": "research-article",
+"n_sections": 11,
+"words_total": 1807,
+"words_methodlike": 392,
+"approx_tokens_total": 2439,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12153539",
+"article_type": "research-article",
+"n_sections": 10,
+"words_total": 5201,
+"words_methodlike": 1145,
+"approx_tokens_total": 7021,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12153998",
+"article_type": "research-article",
+"n_sections": 30,
+"words_total": 13293,
+"words_methodlike": 9110,
+"approx_tokens_total": 17945,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12154171",
+"article_type": "research-article",
+"n_sections": 30,
+"words_total": 7466,
+"words_methodlike": 3713,
+"approx_tokens_total": 10079,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12155400",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 6131,
+"words_methodlike": 2021,
+"approx_tokens_total": 8276,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12155752",
+"article_type": "research-article",
+"n_sections": 25,
+"words_total": 6197,
+"words_methodlike": 3172,
+"approx_tokens_total": 8365,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12157125",
+"article_type": "research-article",
+"n_sections": 29,
+"words_total": 7946,
+"words_methodlike": 4558,
+"approx_tokens_total": 10727,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12162252",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 6254,
+"words_methodlike": 4157,
+"approx_tokens_total": 8442,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12165889",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 5030,
+"words_methodlike": 1674,
+"approx_tokens_total": 6790,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12167337",
+"article_type": "brief-report",
+"n_sections": 9,
+"words_total": 3218,
+"words_methodlike": 2518,
+"approx_tokens_total": 4344,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12169524",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 6903,
+"words_methodlike": 4553,
+"approx_tokens_total": 9319,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12171332",
+"article_type": "research-article",
+"n_sections": 28,
+"words_total": 11441,
+"words_methodlike": 8704,
+"approx_tokens_total": 15445,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12177086",
+"article_type": "research-article",
+"n_sections": 13,
+"words_total": 7169,
+"words_methodlike": 3003,
+"approx_tokens_total": 9678,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12177113",
+"article_type": "research-article",
+"n_sections": 17,
+"words_total": 4254,
+"words_methodlike": 540,
+"approx_tokens_total": 5742,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12178899",
+"article_type": "research-article",
+"n_sections": 14,
+"words_total": 4822,
+"words_methodlike": 1459,
+"approx_tokens_total": 6509,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12179047",
+"article_type": "research-article",
+"n_sections": 21,
+"words_total": 4957,
+"words_methodlike": 2313,
+"approx_tokens_total": 6691,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12179520",
+"article_type": "research-article",
+"n_sections": 9,
+"words_total": 5025,
+"words_methodlike": 1545,
+"approx_tokens_total": 6783,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12183800",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 7947,
+"words_methodlike": 2520,
+"approx_tokens_total": 10728,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12188138",
+"article_type": "research-article",
+"n_sections": 16,
+"words_total": 6913,
+"words_methodlike": 3172,
+"approx_tokens_total": 9332,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12189345",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 4167,
+"words_methodlike": 1552,
+"approx_tokens_total": 5625,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12189467",
+"article_type": "research-article",
+"n_sections": 26,
+"words_total": 5675,
+"words_methodlike": 2485,
+"approx_tokens_total": 7661,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12189867",
+"article_type": "research-article",
+"n_sections": 28,
+"words_total": 6167,
+"words_methodlike": 3072,
+"approx_tokens_total": 8325,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12190310",
+"article_type": "research-article",
+"n_sections": 25,
+"words_total": 6267,
+"words_methodlike": 3959,
+"approx_tokens_total": 8460,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12190387",
+"article_type": "research-article",
+"n_sections": 28,
+"words_total": 8778,
+"words_methodlike": 2487,
+"approx_tokens_total": 11850,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12190484",
+"article_type": "research-article",
+"n_sections": 17,
+"words_total": 5847,
+"words_methodlike": 3310,
+"approx_tokens_total": 7893,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12191009",
+"article_type": "research-article",
+"n_sections": 29,
+"words_total": 6612,
+"words_methodlike": 3153,
+"approx_tokens_total": 8926,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12191842",
+"article_type": "research-article",
+"n_sections": 14,
+"words_total": 5959,
+"words_methodlike": 1165,
+"approx_tokens_total": 8044,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12191917",
+"article_type": "research-article",
+"n_sections": 27,
+"words_total": 6885,
+"words_methodlike": 3164,
+"approx_tokens_total": 9294,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12192201",
+"article_type": "research-article",
+"n_sections": 32,
+"words_total": 7165,
+"words_methodlike": 1495,
+"approx_tokens_total": 9672,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12192951",
+"article_type": "research-article",
+"n_sections": 32,
+"words_total": 20152,
+"words_methodlike": 13214,
+"approx_tokens_total": 27205,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12193078",
+"article_type": "research-article",
+"n_sections": 25,
+"words_total": 8653,
+"words_methodlike": 5514,
+"approx_tokens_total": 11681,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12204963",
+"article_type": "research-article",
+"n_sections": 12,
+"words_total": 3672,
+"words_methodlike": 1781,
+"approx_tokens_total": 4957,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12209302",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 6698,
+"words_methodlike": 3243,
+"approx_tokens_total": 9042,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12212108",
+"article_type": "research-article",
+"n_sections": 29,
+"words_total": 7744,
+"words_methodlike": 3207,
+"approx_tokens_total": 10454,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12212162",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 5008,
+"words_methodlike": 3251,
+"approx_tokens_total": 6760,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12213050",
+"article_type": "research-article",
+"n_sections": 14,
+"words_total": 5255,
+"words_methodlike": 1629,
+"approx_tokens_total": 7094,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12217170",
+"article_type": "research-article",
+"n_sections": 24,
+"words_total": 6448,
+"words_methodlike": 1887,
+"approx_tokens_total": 8704,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12218925",
+"article_type": "research-article",
+"n_sections": 14,
+"words_total": 5841,
+"words_methodlike": 2415,
+"approx_tokens_total": 7885,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12221888",
+"article_type": "research-article",
+"n_sections": 26,
+"words_total": 4684,
+"words_methodlike": 2384,
+"approx_tokens_total": 6323,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12222053",
+"article_type": "research-article",
+"n_sections": 15,
+"words_total": 6414,
+"words_methodlike": 2025,
+"approx_tokens_total": 8658,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12222156",
+"article_type": "research-article",
+"n_sections": 29,
+"words_total": 8539,
+"words_methodlike": 4321,
+"approx_tokens_total": 11527,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12222329",
+"article_type": "research-article",
+"n_sections": 30,
+"words_total": 6929,
+"words_methodlike": 2448,
+"approx_tokens_total": 9354,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12222963",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 5167,
+"words_methodlike": 2512,
+"approx_tokens_total": 6975,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12226554",
+"article_type": "research-article",
+"n_sections": 29,
+"words_total": 6883,
+"words_methodlike": 4329,
+"approx_tokens_total": 9292,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12226657",
+"article_type": "research-article",
+"n_sections": 34,
+"words_total": 4714,
+"words_methodlike": 2717,
+"approx_tokens_total": 6363,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12227691",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 9900,
+"words_methodlike": 4919,
+"approx_tokens_total": 13365,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12229398",
+"article_type": "research-article",
+"n_sections": 9,
+"words_total": 3992,
+"words_methodlike": 2478,
+"approx_tokens_total": 5389,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12234637",
+"article_type": "research-article",
+"n_sections": 17,
+"words_total": 3209,
+"words_methodlike": 766,
+"approx_tokens_total": 4332,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12236266",
+"article_type": "research-article",
+"n_sections": 28,
+"words_total": 6407,
+"words_methodlike": 3184,
+"approx_tokens_total": 8649,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12237964",
+"article_type": "research-article",
+"n_sections": 12,
+"words_total": 4565,
+"words_methodlike": 2070,
+"approx_tokens_total": 6162,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12239351",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 4846,
+"words_methodlike": 2615,
+"approx_tokens_total": 6542,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12241142",
+"article_type": "research-article",
+"n_sections": 28,
+"words_total": 4414,
+"words_methodlike": 1873,
+"approx_tokens_total": 5958,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12245699",
+"article_type": "research-article",
+"n_sections": 14,
+"words_total": 5379,
+"words_methodlike": 2364,
+"approx_tokens_total": 7261,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12247529",
+"article_type": "research-article",
+"n_sections": 27,
+"words_total": 4048,
+"words_methodlike": 1436,
+"approx_tokens_total": 5464,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12248572",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 9865,
+"words_methodlike": 3504,
+"approx_tokens_total": 13317,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12249172",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 9244,
+"words_methodlike": 5461,
+"approx_tokens_total": 12479,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12249270",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 6443,
+"words_methodlike": 4057,
+"approx_tokens_total": 8698,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12250696",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 4347,
+"words_methodlike": 1840,
+"approx_tokens_total": 5868,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12252233",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 9335,
+"words_methodlike": 7617,
+"approx_tokens_total": 12602,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12256241",
+"article_type": "research-article",
+"n_sections": 27,
+"words_total": 5121,
+"words_methodlike": 2605,
+"approx_tokens_total": 6913,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12264328",
+"article_type": "research-article",
+"n_sections": 16,
+"words_total": 7240,
+"words_methodlike": 2822,
+"approx_tokens_total": 9774,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12269930",
+"article_type": "research-article",
+"n_sections": 13,
+"words_total": 3645,
+"words_methodlike": 1671,
+"approx_tokens_total": 4920,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12271101",
+"article_type": "research-article",
+"n_sections": 11,
+"words_total": 5050,
+"words_methodlike": 1735,
+"approx_tokens_total": 6817,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12275356",
+"article_type": "research-article",
+"n_sections": 30,
+"words_total": 5560,
+"words_methodlike": 2207,
+"approx_tokens_total": 7506,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12279466",
+"article_type": "research-article",
+"n_sections": 29,
+"words_total": 6544,
+"words_methodlike": 2566,
+"approx_tokens_total": 8834,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12280878",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 5749,
+"words_methodlike": 3428,
+"approx_tokens_total": 7761,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12280904",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 7854,
+"words_methodlike": 1702,
+"approx_tokens_total": 10602,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12283581",
+"article_type": "research-article",
+"n_sections": 29,
+"words_total": 7323,
+"words_methodlike": 1896,
+"approx_tokens_total": 9886,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12286415",
+"article_type": "research-article",
+"n_sections": 11,
+"words_total": 3754,
+"words_methodlike": 1979,
+"approx_tokens_total": 5067,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12287020",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 5361,
+"words_methodlike": 2194,
+"approx_tokens_total": 7237,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12290913",
+"article_type": "research-article",
+"n_sections": 13,
+"words_total": 1635,
+"words_methodlike": 564,
+"approx_tokens_total": 2207,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12293116",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 4876,
+"words_methodlike": 1682,
+"approx_tokens_total": 6582,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12293373",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 5099,
+"words_methodlike": 2000,
+"approx_tokens_total": 6883,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12295020",
+"article_type": "research-article",
+"n_sections": 13,
+"words_total": 5153,
+"words_methodlike": 1851,
+"approx_tokens_total": 6956,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12295062",
+"article_type": "research-article",
+"n_sections": 42,
+"words_total": 9122,
+"words_methodlike": 4429,
+"approx_tokens_total": 12314,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12295850",
+"article_type": "research-article",
+"n_sections": 16,
+"words_total": 7289,
+"words_methodlike": 2973,
+"approx_tokens_total": 9840,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12301082",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 6126,
+"words_methodlike": 3984,
+"approx_tokens_total": 8270,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12303355",
+"article_type": "research-article",
+"n_sections": 11,
+"words_total": 5478,
+"words_methodlike": 2101,
+"approx_tokens_total": 7395,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12307509",
+"article_type": "research-article",
+"n_sections": 34,
+"words_total": 6207,
+"words_methodlike": 2722,
+"approx_tokens_total": 8379,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12310404",
+"article_type": "research-article",
+"n_sections": 5,
+"words_total": 2594,
+"words_methodlike": 374,
+"approx_tokens_total": 3501,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12310693",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 4354,
+"words_methodlike": 2141,
+"approx_tokens_total": 5877,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12316318",
+"article_type": "research-article",
+"n_sections": 31,
+"words_total": 10809,
+"words_methodlike": 6821,
+"approx_tokens_total": 14592,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12316994",
+"article_type": "research-article",
+"n_sections": 35,
+"words_total": 8490,
+"words_methodlike": 5244,
+"approx_tokens_total": 11461,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12318030",
+"article_type": "research-article",
+"n_sections": 49,
+"words_total": 10997,
+"words_methodlike": 5414,
+"approx_tokens_total": 14845,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12322712",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 4056,
+"words_methodlike": 1759,
+"approx_tokens_total": 5475,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12325224",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 4194,
+"words_methodlike": 842,
+"approx_tokens_total": 5661,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12325482",
+"article_type": "research-article",
+"n_sections": 26,
+"words_total": 5148,
+"words_methodlike": 1837,
+"approx_tokens_total": 6949,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12326743",
+"article_type": "research-article",
+"n_sections": 30,
+"words_total": 9588,
+"words_methodlike": 3374,
+"approx_tokens_total": 12943,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12329014",
+"article_type": "research-article",
+"n_sections": 24,
+"words_total": 5200,
+"words_methodlike": 2194,
+"approx_tokens_total": 7020,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12330392",
+"article_type": "research-article",
+"n_sections": 24,
+"words_total": 7373,
+"words_methodlike": 1680,
+"approx_tokens_total": 9953,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12331667",
+"article_type": "research-article",
+"n_sections": 28,
+"words_total": 4936,
+"words_methodlike": 1722,
+"approx_tokens_total": 6663,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12332990",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 5447,
+"words_methodlike": 1512,
+"approx_tokens_total": 7353,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12333992",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 4060,
+"words_methodlike": 1490,
+"approx_tokens_total": 5481,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12334629",
+"article_type": "research-article",
+"n_sections": 54,
+"words_total": 8204,
+"words_methodlike": 2172,
+"approx_tokens_total": 11075,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12335458",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 5475,
+"words_methodlike": 1456,
+"approx_tokens_total": 7391,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12335580",
+"article_type": "research-article",
+"n_sections": 17,
+"words_total": 6541,
+"words_methodlike": 3030,
+"approx_tokens_total": 8830,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12336342",
+"article_type": "research-article",
+"n_sections": 16,
+"words_total": 10719,
+"words_methodlike": 2875,
+"approx_tokens_total": 14470,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12338767",
+"article_type": "research-article",
+"n_sections": 9,
+"words_total": 4474,
+"words_methodlike": 2184,
+"approx_tokens_total": 6039,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12345889",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 4107,
+"words_methodlike": 1527,
+"approx_tokens_total": 5544,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12345923",
+"article_type": "research-article",
+"n_sections": 24,
+"words_total": 8340,
+"words_methodlike": 4330,
+"approx_tokens_total": 11259,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12346189",
+"article_type": "research-article",
+"n_sections": 24,
+"words_total": 5984,
+"words_methodlike": 2746,
+"approx_tokens_total": 8078,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12346750",
+"article_type": "research-article",
+"n_sections": 25,
+"words_total": 9644,
+"words_methodlike": 1886,
+"approx_tokens_total": 13019,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12349148",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 6187,
+"words_methodlike": 2453,
+"approx_tokens_total": 8352,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12350125",
+"article_type": "research-article",
+"n_sections": 12,
+"words_total": 4988,
+"words_methodlike": 2826,
+"approx_tokens_total": 6733,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12353728",
+"article_type": "research-article",
+"n_sections": 21,
+"words_total": 3547,
+"words_methodlike": 1105,
+"approx_tokens_total": 4788,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12354714",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 4307,
+"words_methodlike": 1345,
+"approx_tokens_total": 5814,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12358265",
+"article_type": "research-article",
+"n_sections": 12,
+"words_total": 5508,
+"words_methodlike": 1969,
+"approx_tokens_total": 7435,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12361585",
+"article_type": "research-article",
+"n_sections": 27,
+"words_total": 5483,
+"words_methodlike": 2559,
+"approx_tokens_total": 7402,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12364636",
+"article_type": "research-article",
+"n_sections": 17,
+"words_total": 6579,
+"words_methodlike": 3094,
+"approx_tokens_total": 8881,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12364678",
+"article_type": "research-article",
+"n_sections": 15,
+"words_total": 4794,
+"words_methodlike": 2526,
+"approx_tokens_total": 6471,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12364712",
+"article_type": "research-article",
+"n_sections": 27,
+"words_total": 9746,
+"words_methodlike": 4250,
+"approx_tokens_total": 13157,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12365151",
+"article_type": "research-article",
+"n_sections": 17,
+"words_total": 6212,
+"words_methodlike": 4202,
+"approx_tokens_total": 8386,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12365901",
+"article_type": "research-article",
+"n_sections": 16,
+"words_total": 5183,
+"words_methodlike": 1749,
+"approx_tokens_total": 6997,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12367112",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 4434,
+"words_methodlike": 1792,
+"approx_tokens_total": 5985,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12370136",
+"article_type": "research-article",
+"n_sections": 14,
+"words_total": 4946,
+"words_methodlike": 1929,
+"approx_tokens_total": 6677,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12371411",
+"article_type": "research-article",
+"n_sections": 29,
+"words_total": 11161,
+"words_methodlike": 4865,
+"approx_tokens_total": 15067,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12373713",
+"article_type": "research-article",
+"n_sections": 26,
+"words_total": 12906,
+"words_methodlike": 6160,
+"approx_tokens_total": 17423,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12380340",
+"article_type": "research-article",
+"n_sections": 16,
+"words_total": 7975,
+"words_methodlike": 2661,
+"approx_tokens_total": 10766,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12383388",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 9966,
+"words_methodlike": 3250,
+"approx_tokens_total": 13454,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12383659",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 8735,
+"words_methodlike": 2150,
+"approx_tokens_total": 11792,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12383681",
+"article_type": "research-article",
+"n_sections": 25,
+"words_total": 5058,
+"words_methodlike": 2193,
+"approx_tokens_total": 6828,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12384400",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 4473,
+"words_methodlike": 2198,
+"approx_tokens_total": 6038,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12385022",
+"article_type": "research-article",
+"n_sections": 29,
+"words_total": 4480,
+"words_methodlike": 2177,
+"approx_tokens_total": 6048,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12385457",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 5963,
+"words_methodlike": 2736,
+"approx_tokens_total": 8050,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12385503",
+"article_type": "research-article",
+"n_sections": 24,
+"words_total": 13664,
+"words_methodlike": 5962,
+"approx_tokens_total": 18446,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12387119",
+"article_type": "research-article",
+"n_sections": 26,
+"words_total": 6229,
+"words_methodlike": 2278,
+"approx_tokens_total": 8409,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12387165",
+"article_type": "research-article",
+"n_sections": 17,
+"words_total": 3424,
+"words_methodlike": 596,
+"approx_tokens_total": 4622,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12387618",
+"article_type": "research-article",
+"n_sections": 41,
+"words_total": 9332,
+"words_methodlike": 4499,
+"approx_tokens_total": 12598,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12387691",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 6622,
+"words_methodlike": 4696,
+"approx_tokens_total": 8939,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12387851",
+"article_type": "research-article",
+"n_sections": 25,
+"words_total": 8132,
+"words_methodlike": 5321,
+"approx_tokens_total": 10978,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12388561",
+"article_type": "research-article",
+"n_sections": 14,
+"words_total": 7265,
+"words_methodlike": 2497,
+"approx_tokens_total": 9807,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12389973",
+"article_type": "research-article",
+"n_sections": 35,
+"words_total": 6632,
+"words_methodlike": 4148,
+"approx_tokens_total": 8953,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12390166",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 6849,
+"words_methodlike": 4140,
+"approx_tokens_total": 9246,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12391420",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 3247,
+"words_methodlike": 2258,
+"approx_tokens_total": 4383,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12391760",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 9334,
+"words_methodlike": 3140,
+"approx_tokens_total": 12600,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12396830",
+"article_type": "research-article",
+"n_sections": 26,
+"words_total": 5974,
+"words_methodlike": 3236,
+"approx_tokens_total": 8064,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12399013",
+"article_type": "research-article",
+"n_sections": 29,
+"words_total": 7856,
+"words_methodlike": 2399,
+"approx_tokens_total": 10605,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12402046",
+"article_type": "research-article",
+"n_sections": 16,
+"words_total": 4940,
+"words_methodlike": 2439,
+"approx_tokens_total": 6669,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12404480",
+"article_type": "research-article",
+"n_sections": 10,
+"words_total": 4693,
+"words_methodlike": 2374,
+"approx_tokens_total": 6335,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12404543",
+"article_type": "research-article",
+"n_sections": 11,
+"words_total": 4328,
+"words_methodlike": 2149,
+"approx_tokens_total": 5842,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12405159",
+"article_type": "research-article",
+"n_sections": 31,
+"words_total": 7857,
+"words_methodlike": 4063,
+"approx_tokens_total": 10606,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12405214",
+"article_type": "research-article",
+"n_sections": 17,
+"words_total": 5278,
+"words_methodlike": 1980,
+"approx_tokens_total": 7125,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12405520",
+"article_type": "research-article",
+"n_sections": 28,
+"words_total": 7001,
+"words_methodlike": 1803,
+"approx_tokens_total": 9451,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12409722",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 6206,
+"words_methodlike": 3152,
+"approx_tokens_total": 8378,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12412478",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 5409,
+"words_methodlike": 3270,
+"approx_tokens_total": 7302,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12418127",
+"article_type": "research-article",
+"n_sections": 12,
+"words_total": 3967,
+"words_methodlike": 1473,
+"approx_tokens_total": 5355,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12418648",
+"article_type": "research-article",
+"n_sections": 24,
+"words_total": 5390,
+"words_methodlike": 2300,
+"approx_tokens_total": 7276,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12418695",
+"article_type": "research-article",
+"n_sections": 15,
+"words_total": 5016,
+"words_methodlike": 1876,
+"approx_tokens_total": 6771,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12427627",
+"article_type": "research-article",
+"n_sections": 30,
+"words_total": 6882,
+"words_methodlike": 2442,
+"approx_tokens_total": 9290,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12428199",
+"article_type": "research-article",
+"n_sections": 27,
+"words_total": 7950,
+"words_methodlike": 3092,
+"approx_tokens_total": 10732,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12429428",
+"article_type": "research-article",
+"n_sections": 25,
+"words_total": 4869,
+"words_methodlike": 1643,
+"approx_tokens_total": 6573,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12434915",
+"article_type": "research-article",
+"n_sections": 30,
+"words_total": 5081,
+"words_methodlike": 2560,
+"approx_tokens_total": 6859,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12436311",
+"article_type": "research-article",
+"n_sections": 26,
+"words_total": 11391,
+"words_methodlike": 5804,
+"approx_tokens_total": 15377,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12436478",
+"article_type": "research-article",
+"n_sections": 24,
+"words_total": 4092,
+"words_methodlike": 2000,
+"approx_tokens_total": 5524,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12440165",
+"article_type": "research-article",
+"n_sections": 12,
+"words_total": 7139,
+"words_methodlike": 5056,
+"approx_tokens_total": 9637,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12444220",
+"article_type": "research-article",
+"n_sections": 24,
+"words_total": 6121,
+"words_methodlike": 3005,
+"approx_tokens_total": 8263,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12445147",
+"article_type": "research-article",
+"n_sections": 9,
+"words_total": 4266,
+"words_methodlike": 853,
+"approx_tokens_total": 5759,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12448012",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 6825,
+"words_methodlike": 2935,
+"approx_tokens_total": 9213,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12453788",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 10812,
+"words_methodlike": 3305,
+"approx_tokens_total": 14596,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12453851",
+"article_type": "research-article",
+"n_sections": 27,
+"words_total": 6924,
+"words_methodlike": 3767,
+"approx_tokens_total": 9347,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12454033",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 4902,
+"words_methodlike": 1858,
+"approx_tokens_total": 6617,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12454378",
+"article_type": "research-article",
+"n_sections": 24,
+"words_total": 9074,
+"words_methodlike": 4274,
+"approx_tokens_total": 12249,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12454447",
+"article_type": "research-article",
+"n_sections": 11,
+"words_total": 4018,
+"words_methodlike": 1312,
+"approx_tokens_total": 5424,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12454901",
+"article_type": "research-article",
+"n_sections": 28,
+"words_total": 6259,
+"words_methodlike": 2779,
+"approx_tokens_total": 8449,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12456844",
+"article_type": "research-article",
+"n_sections": 25,
+"words_total": 7624,
+"words_methodlike": 3044,
+"approx_tokens_total": 10292,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12457126",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 4536,
+"words_methodlike": 2353,
+"approx_tokens_total": 6123,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12459604",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 5819,
+"words_methodlike": 2568,
+"approx_tokens_total": 7855,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12460420",
+"article_type": "research-article",
+"n_sections": 25,
+"words_total": 7473,
+"words_methodlike": 3734,
+"approx_tokens_total": 10088,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12460464",
+"article_type": "research-article",
+"n_sections": 29,
+"words_total": 10027,
+"words_methodlike": 3347,
+"approx_tokens_total": 13536,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12462649",
+"article_type": "research-article",
+"n_sections": 16,
+"words_total": 6177,
+"words_methodlike": 2731,
+"approx_tokens_total": 8338,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12467694",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 5966,
+"words_methodlike": 1695,
+"approx_tokens_total": 8054,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12467770",
+"article_type": "research-article",
+"n_sections": 13,
+"words_total": 3788,
+"words_methodlike": 1265,
+"approx_tokens_total": 5113,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12467930",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 9619,
+"words_methodlike": 4921,
+"approx_tokens_total": 12985,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12468348",
+"article_type": "research-article",
+"n_sections": 41,
+"words_total": 10799,
+"words_methodlike": 6874,
+"approx_tokens_total": 14578,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12468384",
+"article_type": "research-article",
+"n_sections": 29,
+"words_total": 8956,
+"words_methodlike": 5147,
+"approx_tokens_total": 12090,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12468862",
+"article_type": "research-article",
+"n_sections": 26,
+"words_total": 5616,
+"words_methodlike": 2717,
+"approx_tokens_total": 7581,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12468869",
+"article_type": "research-article",
+"n_sections": 39,
+"words_total": 4733,
+"words_methodlike": 1247,
+"approx_tokens_total": 6389,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12468973",
+"article_type": "research-article",
+"n_sections": 27,
+"words_total": 7690,
+"words_methodlike": 3318,
+"approx_tokens_total": 10381,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12469220",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 4852,
+"words_methodlike": 1110,
+"approx_tokens_total": 6550,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12471060",
+"article_type": "research-article",
+"n_sections": 17,
+"words_total": 3363,
+"words_methodlike": 1062,
+"approx_tokens_total": 4540,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12471856",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 10554,
+"words_methodlike": 5457,
+"approx_tokens_total": 14247,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12473302",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 5685,
+"words_methodlike": 1297,
+"approx_tokens_total": 7674,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12476382",
+"article_type": "research-article",
+"n_sections": 13,
+"words_total": 2746,
+"words_methodlike": 1114,
+"approx_tokens_total": 3707,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12476419",
+"article_type": "brief-report",
+"n_sections": 12,
+"words_total": 2402,
+"words_methodlike": 1275,
+"approx_tokens_total": 3242,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12477006",
+"article_type": "research-article",
+"n_sections": 15,
+"words_total": 6261,
+"words_methodlike": 1626,
+"approx_tokens_total": 8452,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12478919",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 11550,
+"words_methodlike": 3195,
+"approx_tokens_total": 15592,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12481068",
+"article_type": "data-paper",
+"n_sections": 11,
+"words_total": 1850,
+"words_methodlike": 591,
+"approx_tokens_total": 2497,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12481582",
+"article_type": "research-article",
+"n_sections": 27,
+"words_total": 14537,
+"words_methodlike": 3384,
+"approx_tokens_total": 19624,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12485631",
+"article_type": "research-article",
+"n_sections": 49,
+"words_total": 7532,
+"words_methodlike": 1238,
+"approx_tokens_total": 10168,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12489083",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 10371,
+"words_methodlike": 4721,
+"approx_tokens_total": 14000,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12491050",
+"article_type": "research-article",
+"n_sections": 15,
+"words_total": 5531,
+"words_methodlike": 3199,
+"approx_tokens_total": 7466,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12499545",
+"article_type": "research-article",
+"n_sections": 15,
+"words_total": 4048,
+"words_methodlike": 1444,
+"approx_tokens_total": 5464,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12499557",
+"article_type": "research-article",
+"n_sections": 17,
+"words_total": 5487,
+"words_methodlike": 2154,
+"approx_tokens_total": 7407,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12500497",
+"article_type": "research-article",
+"n_sections": 29,
+"words_total": 7345,
+"words_methodlike": 3574,
+"approx_tokens_total": 9915,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12504877",
+"article_type": "research-article",
+"n_sections": 25,
+"words_total": 8399,
+"words_methodlike": 4851,
+"approx_tokens_total": 11338,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12509238",
+"article_type": "research-article",
+"n_sections": 21,
+"words_total": 4853,
+"words_methodlike": 2079,
+"approx_tokens_total": 6551,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12511338",
+"article_type": "research-article",
+"n_sections": 24,
+"words_total": 5878,
+"words_methodlike": 2391,
+"approx_tokens_total": 7935,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12513637",
+"article_type": "research-article",
+"n_sections": 17,
+"words_total": 5755,
+"words_methodlike": 2568,
+"approx_tokens_total": 7769,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12516016",
+"article_type": "brief-report",
+"n_sections": 16,
+"words_total": 6907,
+"words_methodlike": 4380,
+"approx_tokens_total": 9324,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12516162",
+"article_type": "research-article",
+"n_sections": 12,
+"words_total": 8118,
+"words_methodlike": 3383,
+"approx_tokens_total": 10959,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12516837",
+"article_type": "research-article",
+"n_sections": 28,
+"words_total": 8741,
+"words_methodlike": 5832,
+"approx_tokens_total": 11800,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12518381",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 5651,
+"words_methodlike": 3963,
+"approx_tokens_total": 7628,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12521361",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 11867,
+"words_methodlike": 4560,
+"approx_tokens_total": 16020,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12521981",
+"article_type": "research-article",
+"n_sections": 25,
+"words_total": 6955,
+"words_methodlike": 5090,
+"approx_tokens_total": 9389,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12523546",
+"article_type": "research-article",
+"n_sections": 11,
+"words_total": 4118,
+"words_methodlike": 1221,
+"approx_tokens_total": 5559,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12523697",
+"article_type": "research-article",
+"n_sections": 38,
+"words_total": 9054,
+"words_methodlike": 5747,
+"approx_tokens_total": 12222,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12524090",
+"article_type": "research-article",
+"n_sections": 26,
+"words_total": 9087,
+"words_methodlike": 3884,
+"approx_tokens_total": 12267,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12524272",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 7833,
+"words_methodlike": 2414,
+"approx_tokens_total": 10574,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12526791",
+"article_type": "research-article",
+"n_sections": 27,
+"words_total": 10517,
+"words_methodlike": 5159,
+"approx_tokens_total": 14197,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12527036",
+"article_type": "research-article",
+"n_sections": 15,
+"words_total": 6509,
+"words_methodlike": 3432,
+"approx_tokens_total": 8787,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12528745",
+"article_type": "research-article",
+"n_sections": 14,
+"words_total": 8741,
+"words_methodlike": 5773,
+"approx_tokens_total": 11800,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12530578",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 7577,
+"words_methodlike": 2217,
+"approx_tokens_total": 10228,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12531632",
+"article_type": "research-article",
+"n_sections": 10,
+"words_total": 7635,
+"words_methodlike": 2014,
+"approx_tokens_total": 10307,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12532985",
+"article_type": "research-article",
+"n_sections": 15,
+"words_total": 5489,
+"words_methodlike": 1769,
+"approx_tokens_total": 7410,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12534675",
+"article_type": "research-article",
+"n_sections": 16,
+"words_total": 3972,
+"words_methodlike": 1702,
+"approx_tokens_total": 5362,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12534769",
+"article_type": "research-article",
+"n_sections": 25,
+"words_total": 5156,
+"words_methodlike": 2576,
+"approx_tokens_total": 6960,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12535900",
+"article_type": "research-article",
+"n_sections": 21,
+"words_total": 5052,
+"words_methodlike": 1458,
+"approx_tokens_total": 6820,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12540149",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 6641,
+"words_methodlike": 3992,
+"approx_tokens_total": 8965,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12540183",
+"article_type": "research-article",
+"n_sections": 24,
+"words_total": 7630,
+"words_methodlike": 2698,
+"approx_tokens_total": 10300,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12543161",
+"article_type": "research-article",
+"n_sections": 31,
+"words_total": 10307,
+"words_methodlike": 5344,
+"approx_tokens_total": 13914,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12545830",
+"article_type": "data-paper",
+"n_sections": 30,
+"words_total": 3399,
+"words_methodlike": 2199,
+"approx_tokens_total": 4588,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12546231",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 5406,
+"words_methodlike": 2618,
+"approx_tokens_total": 7298,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12546431",
+"article_type": "research-article",
+"n_sections": 17,
+"words_total": 6350,
+"words_methodlike": 3585,
+"approx_tokens_total": 8572,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12551925",
+"article_type": "research-article",
+"n_sections": 35,
+"words_total": 11371,
+"words_methodlike": 2572,
+"approx_tokens_total": 15350,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12552472",
+"article_type": "research-article",
+"n_sections": 11,
+"words_total": 5492,
+"words_methodlike": 2441,
+"approx_tokens_total": 7414,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12555394",
+"article_type": "research-article",
+"n_sections": 38,
+"words_total": 15320,
+"words_methodlike": 7820,
+"approx_tokens_total": 20682,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12558874",
+"article_type": "research-article",
+"n_sections": 11,
+"words_total": 2980,
+"words_methodlike": 749,
+"approx_tokens_total": 4023,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12559157",
+"article_type": "research-article",
+"n_sections": 28,
+"words_total": 3995,
+"words_methodlike": 1349,
+"approx_tokens_total": 5393,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12560293",
+"article_type": "research-article",
+"n_sections": 17,
+"words_total": 6925,
+"words_methodlike": 2022,
+"approx_tokens_total": 9348,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12561078",
+"article_type": "research-article",
+"n_sections": 26,
+"words_total": 6674,
+"words_methodlike": 2674,
+"approx_tokens_total": 9009,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12561617",
+"article_type": "research-article",
+"n_sections": 31,
+"words_total": 8352,
+"words_methodlike": 2398,
+"approx_tokens_total": 11275,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12563722",
+"article_type": "research-article",
+"n_sections": 15,
+"words_total": 6566,
+"words_methodlike": 1839,
+"approx_tokens_total": 8864,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12564139",
+"article_type": "research-article",
+"n_sections": 24,
+"words_total": 5585,
+"words_methodlike": 2406,
+"approx_tokens_total": 7539,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12564389",
+"article_type": "research-article",
+"n_sections": 26,
+"words_total": 4497,
+"words_methodlike": 2424,
+"approx_tokens_total": 6070,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12564920",
+"article_type": "research-article",
+"n_sections": 25,
+"words_total": 10682,
+"words_methodlike": 6245,
+"approx_tokens_total": 14420,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12564970",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 4676,
+"words_methodlike": 917,
+"approx_tokens_total": 6312,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12565056",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 8909,
+"words_methodlike": 4051,
+"approx_tokens_total": 12027,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12565242",
+"article_type": "research-article",
+"n_sections": 32,
+"words_total": 7473,
+"words_methodlike": 5421,
+"approx_tokens_total": 10088,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12565449",
+"article_type": "research-article",
+"n_sections": 17,
+"words_total": 8784,
+"words_methodlike": 2966,
+"approx_tokens_total": 11858,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12565600",
+"article_type": "research-article",
+"n_sections": 34,
+"words_total": 9851,
+"words_methodlike": 5786,
+"approx_tokens_total": 13298,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12565618",
+"article_type": "research-article",
+"n_sections": 21,
+"words_total": 7455,
+"words_methodlike": 2693,
+"approx_tokens_total": 10064,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12565728",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 9209,
+"words_methodlike": 6525,
+"approx_tokens_total": 12432,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12570530",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 5344,
+"words_methodlike": 1980,
+"approx_tokens_total": 7214,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12572109",
+"article_type": "research-article",
+"n_sections": 33,
+"words_total": 5334,
+"words_methodlike": 1841,
+"approx_tokens_total": 7200,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12572571",
+"article_type": "research-article",
+"n_sections": 38,
+"words_total": 9458,
+"words_methodlike": 6573,
+"approx_tokens_total": 12768,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12573454",
+"article_type": "research-article",
+"n_sections": 21,
+"words_total": 6179,
+"words_methodlike": 2225,
+"approx_tokens_total": 8341,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12574434",
+"article_type": "research-article",
+"n_sections": 15,
+"words_total": 3013,
+"words_methodlike": 1024,
+"approx_tokens_total": 4067,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12580201",
+"article_type": "research-article",
+"n_sections": 25,
+"words_total": 8774,
+"words_methodlike": 5602,
+"approx_tokens_total": 11844,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12588513",
+"article_type": "research-article",
+"n_sections": 17,
+"words_total": 7089,
+"words_methodlike": 5443,
+"approx_tokens_total": 9570,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12591463",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 9514,
+"words_methodlike": 3449,
+"approx_tokens_total": 12843,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12592200",
+"article_type": "research-article",
+"n_sections": 30,
+"words_total": 5543,
+"words_methodlike": 3643,
+"approx_tokens_total": 7483,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12593452",
+"article_type": "research-article",
+"n_sections": 25,
+"words_total": 7237,
+"words_methodlike": 2408,
+"approx_tokens_total": 9769,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12594325",
+"article_type": "research-article",
+"n_sections": 21,
+"words_total": 6843,
+"words_methodlike": 4756,
+"approx_tokens_total": 9238,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12597856",
+"article_type": "research-article",
+"n_sections": 26,
+"words_total": 4223,
+"words_methodlike": 1259,
+"approx_tokens_total": 5701,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12597869",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 5715,
+"words_methodlike": 1966,
+"approx_tokens_total": 7715,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12602640",
+"article_type": "research-article",
+"n_sections": 17,
+"words_total": 5215,
+"words_methodlike": 1958,
+"approx_tokens_total": 7040,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12603148",
+"article_type": "research-article",
+"n_sections": 31,
+"words_total": 7045,
+"words_methodlike": 3732,
+"approx_tokens_total": 9510,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12603675",
+"article_type": "research-article",
+"n_sections": 9,
+"words_total": 4696,
+"words_methodlike": 1463,
+"approx_tokens_total": 6339,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12605480",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 4265,
+"words_methodlike": 1425,
+"approx_tokens_total": 5757,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12606778",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 5080,
+"words_methodlike": 1693,
+"approx_tokens_total": 6858,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12607678",
+"article_type": "research-article",
+"n_sections": 11,
+"words_total": 3719,
+"words_methodlike": 959,
+"approx_tokens_total": 5020,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12607841",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 4611,
+"words_methodlike": 2139,
+"approx_tokens_total": 6224,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12608630",
+"article_type": "research-article",
+"n_sections": 39,
+"words_total": 8683,
+"words_methodlike": 5690,
+"approx_tokens_total": 11722,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12610351",
+"article_type": "research-article",
+"n_sections": 24,
+"words_total": 3258,
+"words_methodlike": 1345,
+"approx_tokens_total": 4398,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12610522",
+"article_type": "research-article",
+"n_sections": 13,
+"words_total": 5020,
+"words_methodlike": 1868,
+"approx_tokens_total": 6777,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12611148",
+"article_type": "research-article",
+"n_sections": 17,
+"words_total": 5120,
+"words_methodlike": 2484,
+"approx_tokens_total": 6912,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12620616",
+"article_type": "research-article",
+"n_sections": 16,
+"words_total": 9169,
+"words_methodlike": 3067,
+"approx_tokens_total": 12378,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12622268",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 4181,
+"words_methodlike": 1250,
+"approx_tokens_total": 5644,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12627679",
+"article_type": "research-article",
+"n_sections": 12,
+"words_total": 5866,
+"words_methodlike": 2357,
+"approx_tokens_total": 7919,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12628415",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 4441,
+"words_methodlike": 1277,
+"approx_tokens_total": 5995,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12628488",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 4008,
+"words_methodlike": 1654,
+"approx_tokens_total": 5410,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12629890",
+"article_type": "research-article",
+"n_sections": 28,
+"words_total": 5620,
+"words_methodlike": 2177,
+"approx_tokens_total": 7587,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12637164",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 4195,
+"words_methodlike": 2184,
+"approx_tokens_total": 5663,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12642030",
+"article_type": "research-article",
+"n_sections": 25,
+"words_total": 5806,
+"words_methodlike": 1825,
+"approx_tokens_total": 7838,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12646731",
+"article_type": "research-article",
+"n_sections": 25,
+"words_total": 4771,
+"words_methodlike": 2778,
+"approx_tokens_total": 6440,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12646915",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 5730,
+"words_methodlike": 2445,
+"approx_tokens_total": 7735,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12647217",
+"article_type": "research-article",
+"n_sections": 35,
+"words_total": 8751,
+"words_methodlike": 1261,
+"approx_tokens_total": 11813,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12647221",
+"article_type": "research-article",
+"n_sections": 11,
+"words_total": 5169,
+"words_methodlike": 2639,
+"approx_tokens_total": 6978,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12648177",
+"article_type": "research-article",
+"n_sections": 13,
+"words_total": 4640,
+"words_methodlike": 1938,
+"approx_tokens_total": 6264,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12649958",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 11010,
+"words_methodlike": 3735,
+"approx_tokens_total": 14863,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12650808",
+"article_type": "research-article",
+"n_sections": 28,
+"words_total": 4495,
+"words_methodlike": 1978,
+"approx_tokens_total": 6068,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12650834",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 12130,
+"words_methodlike": 4171,
+"approx_tokens_total": 16375,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12651589",
+"article_type": "research-article",
+"n_sections": 34,
+"words_total": 5257,
+"words_methodlike": 1819,
+"approx_tokens_total": 7096,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12651976",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 5968,
+"words_methodlike": 2475,
+"approx_tokens_total": 8056,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12654495",
+"article_type": "research-article",
+"n_sections": 46,
+"words_total": 6323,
+"words_methodlike": 2432,
+"approx_tokens_total": 8536,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12654790",
+"article_type": "research-article",
+"n_sections": 17,
+"words_total": 4654,
+"words_methodlike": 3007,
+"approx_tokens_total": 6282,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12658185",
+"article_type": "research-article",
+"n_sections": 27,
+"words_total": 7716,
+"words_methodlike": 4070,
+"approx_tokens_total": 10416,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12658776",
+"article_type": "research-article",
+"n_sections": 14,
+"words_total": 5040,
+"words_methodlike": 2021,
+"approx_tokens_total": 6804,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12660356",
+"article_type": "research-article",
+"n_sections": 27,
+"words_total": 12669,
+"words_methodlike": 5906,
+"approx_tokens_total": 17103,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12664667",
+"article_type": "research-article",
+"n_sections": 49,
+"words_total": 8357,
+"words_methodlike": 2820,
+"approx_tokens_total": 11281,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12669110",
+"article_type": "research-article",
+"n_sections": 11,
+"words_total": 7816,
+"words_methodlike": 4547,
+"approx_tokens_total": 10551,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12673201",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 4066,
+"words_methodlike": 1821,
+"approx_tokens_total": 5489,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12675158",
+"article_type": "research-article",
+"n_sections": 8,
+"words_total": 3810,
+"words_methodlike": 819,
+"approx_tokens_total": 5143,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12675461",
+"article_type": "research-article",
+"n_sections": 13,
+"words_total": 10980,
+"words_methodlike": 2638,
+"approx_tokens_total": 14823,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12680636",
+"article_type": "research-article",
+"n_sections": 15,
+"words_total": 7476,
+"words_methodlike": 4388,
+"approx_tokens_total": 10092,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12680758",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 5522,
+"words_methodlike": 2839,
+"approx_tokens_total": 7454,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12685141",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 5711,
+"words_methodlike": 407,
+"approx_tokens_total": 7709,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12686268",
+"article_type": "research-article",
+"n_sections": 16,
+"words_total": 4542,
+"words_methodlike": 1186,
+"approx_tokens_total": 6131,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12686508",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 6347,
+"words_methodlike": 3042,
+"approx_tokens_total": 8568,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12687559",
+"article_type": "research-article",
+"n_sections": 29,
+"words_total": 7994,
+"words_methodlike": 5270,
+"approx_tokens_total": 10791,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12689593",
+"article_type": "research-article",
+"n_sections": 8,
+"words_total": 5467,
+"words_methodlike": 1294,
+"approx_tokens_total": 7380,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12691013",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 7140,
+"words_methodlike": 3142,
+"approx_tokens_total": 9639,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12691229",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 6443,
+"words_methodlike": 3503,
+"approx_tokens_total": 8698,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12691345",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 5327,
+"words_methodlike": 2118,
+"approx_tokens_total": 7191,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12691452",
+"article_type": "research-article",
+"n_sections": 39,
+"words_total": 10121,
+"words_methodlike": 6512,
+"approx_tokens_total": 13663,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12691961",
+"article_type": "research-article",
+"n_sections": 28,
+"words_total": 5785,
+"words_methodlike": 2153,
+"approx_tokens_total": 7809,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12694168",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 9869,
+"words_methodlike": 3677,
+"approx_tokens_total": 13323,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12699262",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 4823,
+"words_methodlike": 1958,
+"approx_tokens_total": 6511,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12701185",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 7595,
+"words_methodlike": 3938,
+"approx_tokens_total": 10253,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12705568",
+"article_type": "research-article",
+"n_sections": 29,
+"words_total": 7857,
+"words_methodlike": 5494,
+"approx_tokens_total": 10606,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12708528",
+"article_type": "research-article",
+"n_sections": 16,
+"words_total": 6215,
+"words_methodlike": 1926,
+"approx_tokens_total": 8390,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12708817",
+"article_type": "research-article",
+"n_sections": 16,
+"words_total": 5629,
+"words_methodlike": 3317,
+"approx_tokens_total": 7599,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12711134",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 7111,
+"words_methodlike": 4840,
+"approx_tokens_total": 9599,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12714595",
+"article_type": "research-article",
+"n_sections": 39,
+"words_total": 6102,
+"words_methodlike": 2563,
+"approx_tokens_total": 8237,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12715249",
+"article_type": "research-article",
+"n_sections": 30,
+"words_total": 15895,
+"words_methodlike": 9355,
+"approx_tokens_total": 21458,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12719480",
+"article_type": "research-article",
+"n_sections": 30,
+"words_total": 5908,
+"words_methodlike": 2284,
+"approx_tokens_total": 7975,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12720023",
+"article_type": "research-article",
+"n_sections": 13,
+"words_total": 3483,
+"words_methodlike": 1809,
+"approx_tokens_total": 4702,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12722621",
+"article_type": "research-article",
+"n_sections": 17,
+"words_total": 4340,
+"words_methodlike": 1630,
+"approx_tokens_total": 5859,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12729362",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 6394,
+"words_methodlike": 3150,
+"approx_tokens_total": 8631,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12729749",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 4398,
+"words_methodlike": 1564,
+"approx_tokens_total": 5937,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12729827",
+"article_type": "research-article",
+"n_sections": 11,
+"words_total": 4355,
+"words_methodlike": 2039,
+"approx_tokens_total": 5879,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12730384",
+"article_type": "research-article",
+"n_sections": 29,
+"words_total": 4688,
+"words_methodlike": 1139,
+"approx_tokens_total": 6328,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12731456",
+"article_type": "research-article",
+"n_sections": 47,
+"words_total": 9673,
+"words_methodlike": 3996,
+"approx_tokens_total": 13058,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12731630",
+"article_type": "research-article",
+"n_sections": 24,
+"words_total": 3847,
+"words_methodlike": 1896,
+"approx_tokens_total": 5193,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12731716",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 10359,
+"words_methodlike": 3322,
+"approx_tokens_total": 13984,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12732170",
+"article_type": "research-article",
+"n_sections": 27,
+"words_total": 9379,
+"words_methodlike": 6709,
+"approx_tokens_total": 12661,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12733839",
+"article_type": "research-article",
+"n_sections": 16,
+"words_total": 7807,
+"words_methodlike": 2143,
+"approx_tokens_total": 10539,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12733862",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 8776,
+"words_methodlike": 2780,
+"approx_tokens_total": 11847,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12733990",
+"article_type": "research-article",
+"n_sections": 40,
+"words_total": 7905,
+"words_methodlike": 4294,
+"approx_tokens_total": 10671,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12734304",
+"article_type": "research-article",
+"n_sections": 16,
+"words_total": 8398,
+"words_methodlike": 5991,
+"approx_tokens_total": 11337,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12734337",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 6564,
+"words_methodlike": 2878,
+"approx_tokens_total": 8861,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12737021",
+"article_type": "research-article",
+"n_sections": 7,
+"words_total": 5029,
+"words_methodlike": 2573,
+"approx_tokens_total": 6789,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12738869",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 3110,
+"words_methodlike": 1422,
+"approx_tokens_total": 4198,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12745478",
+"article_type": "research-article",
+"n_sections": 35,
+"words_total": 9106,
+"words_methodlike": 4181,
+"approx_tokens_total": 12293,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12747359",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 4228,
+"words_methodlike": 1615,
+"approx_tokens_total": 5707,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12753390",
+"article_type": "research-article",
+"n_sections": 38,
+"words_total": 7942,
+"words_methodlike": 3780,
+"approx_tokens_total": 10721,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12753960",
+"article_type": "research-article",
+"n_sections": 29,
+"words_total": 6754,
+"words_methodlike": 1674,
+"approx_tokens_total": 9117,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12758015",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 7224,
+"words_methodlike": 3251,
+"approx_tokens_total": 9752,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12776568",
+"article_type": "research-article",
+"n_sections": 12,
+"words_total": 6234,
+"words_methodlike": 3509,
+"approx_tokens_total": 8415,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12794183",
+"article_type": "research-article",
+"n_sections": 9,
+"words_total": 4397,
+"words_methodlike": 1500,
+"approx_tokens_total": 5935,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12797949",
+"article_type": "research-article",
+"n_sections": 8,
+"words_total": 7355,
+"words_methodlike": 4612,
+"approx_tokens_total": 9929,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12798188",
+"article_type": "research-article",
+"n_sections": 10,
+"words_total": 3818,
+"words_methodlike": 799,
+"approx_tokens_total": 5154,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12808379",
+"article_type": "research-article",
+"n_sections": 15,
+"words_total": 4264,
+"words_methodlike": 2199,
+"approx_tokens_total": 5756,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12812902",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 5180,
+"words_methodlike": 2364,
+"approx_tokens_total": 6993,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12812965",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 7982,
+"words_methodlike": 3800,
+"approx_tokens_total": 10775,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12817460",
+"article_type": "research-article",
+"n_sections": 24,
+"words_total": 7516,
+"words_methodlike": 4924,
+"approx_tokens_total": 10146,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12823827",
+"article_type": "research-article",
+"n_sections": 9,
+"words_total": 6387,
+"words_methodlike": 3234,
+"approx_tokens_total": 8622,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12823918",
+"article_type": "research-article",
+"n_sections": 43,
+"words_total": 12583,
+"words_methodlike": 8959,
+"approx_tokens_total": 16987,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12832843",
+"article_type": "research-article",
+"n_sections": 32,
+"words_total": 8492,
+"words_methodlike": 3937,
+"approx_tokens_total": 11464,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12833296",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 6499,
+"words_methodlike": 2594,
+"approx_tokens_total": 8773,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12833394",
+"article_type": "research-article",
+"n_sections": 18,
+"words_total": 6527,
+"words_methodlike": 3235,
+"approx_tokens_total": 8811,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12835897",
+"article_type": "research-article",
+"n_sections": 12,
+"words_total": 5352,
+"words_methodlike": 1166,
+"approx_tokens_total": 7225,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12838146",
+"article_type": "research-article",
+"n_sections": 30,
+"words_total": 7261,
+"words_methodlike": 4481,
+"approx_tokens_total": 9802,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12842669",
+"article_type": "research-article",
+"n_sections": 43,
+"words_total": 7101,
+"words_methodlike": 3436,
+"approx_tokens_total": 9586,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12845566",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 12890,
+"words_methodlike": 3214,
+"approx_tokens_total": 17401,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12847453",
+"article_type": "research-article",
+"n_sections": 33,
+"words_total": 7980,
+"words_methodlike": 3487,
+"approx_tokens_total": 10773,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12851946",
+"article_type": "research-article",
+"n_sections": 23,
+"words_total": 10719,
+"words_methodlike": 2615,
+"approx_tokens_total": 14470,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12852129",
+"article_type": "research-article",
+"n_sections": 34,
+"words_total": 13822,
+"words_methodlike": 5852,
+"approx_tokens_total": 18659,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12855055",
+"article_type": "research-article",
+"n_sections": 21,
+"words_total": 4287,
+"words_methodlike": 1710,
+"approx_tokens_total": 5787,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12861897",
+"article_type": "research-article",
+"n_sections": 36,
+"words_total": 6851,
+"words_methodlike": 3025,
+"approx_tokens_total": 9248,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12862074",
+"article_type": "research-article",
+"n_sections": 22,
+"words_total": 8024,
+"words_methodlike": 2479,
+"approx_tokens_total": 10832,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12862092",
+"article_type": "research-article",
+"n_sections": 27,
+"words_total": 9533,
+"words_methodlike": 5323,
+"approx_tokens_total": 12869,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12876126",
+"article_type": "research-article",
+"n_sections": 28,
+"words_total": 9466,
+"words_methodlike": 6044,
+"approx_tokens_total": 12779,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12886037",
+"article_type": "research-article",
+"n_sections": 19,
+"words_total": 6870,
+"words_methodlike": 2742,
+"approx_tokens_total": 9274,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12907448",
+"article_type": "research-article",
+"n_sections": 37,
+"words_total": 7787,
+"words_methodlike": 5276,
+"approx_tokens_total": 10512,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC12974135",
+"article_type": "research-article",
+"n_sections": 21,
+"words_total": 5930,
+"words_methodlike": 2691,
+"approx_tokens_total": 8005,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC13060574",
+"article_type": "research-article",
+"n_sections": 31,
+"words_total": 9421,
+"words_methodlike": 5593,
+"approx_tokens_total": 12718,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC13105305",
+"article_type": "research-article",
+"n_sections": 17,
+"words_total": 6514,
+"words_methodlike": 2515,
+"approx_tokens_total": 8793,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC13223414",
+"article_type": "research-article",
+"n_sections": 24,
+"words_total": 8149,
+"words_methodlike": 4540,
+"approx_tokens_total": 11001,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC13223426",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 3163,
+"words_methodlike": 625,
+"approx_tokens_total": 4270,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC13223431",
+"article_type": "research-article",
+"n_sections": 20,
+"words_total": 6193,
+"words_methodlike": 2962,
+"approx_tokens_total": 8360,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC13223436",
+"article_type": "research-article",
+"n_sections": 9,
+"words_total": 17763,
+"words_methodlike": 5290,
+"approx_tokens_total": 23980,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC13223442",
+"article_type": "research-article",
+"n_sections": 53,
+"words_total": 9585,
+"words_methodlike": 4695,
+"approx_tokens_total": 12939,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC13223492",
+"article_type": "research-article",
+"n_sections": 13,
+"words_total": 6392,
+"words_methodlike": 3437,
+"approx_tokens_total": 8629,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC13266693",
+"article_type": "research-article",
+"n_sections": 40,
+"words_total": 9632,
+"words_methodlike": 3439,
+"approx_tokens_total": 13003,
+"has_methodlike_heading": true
+},
+{
+"pmcid": "PMC7617223",
+"article_type": "research-article",
+"n_sections": 15,
+"words_total": 3749,
+"words_methodlike": 1213,
+"approx_tokens_total": 5061,
+"has_methodlike_heading": true
+}
+]

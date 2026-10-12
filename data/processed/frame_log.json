@@ -1,0 +1,18 @@
+{
+ "query": "(ABSTRACT:\"deep learning\" OR ABSTRACT:\"convolutional neural network\" OR ABSTRACT:\"vision transformer\") AND (ABSTRACT:\"classification\" OR ABSTRACT:\"classify\" OR ABSTRACT:\"classifier\") AND (ABSTRACT:\"MRI\" OR ABSTRACT:\"magnetic resonance\" OR ABSTRACT:\"CT\" OR ABSTRACT:\"computed tomography\" OR ABSTRACT:\"X-ray\" OR ABSTRACT:\"radiograph*\" OR ABSTRACT:\"histopatholog*\" OR ABSTRACT:\"whole slide\" OR ABSTRACT:\"fundus\" OR ABSTRACT:\"dermoscop*\" OR ABSTRACT:\"ultrasound\" OR ABSTRACT:\"mammogra*\" OR ABSTRACT:\"endoscop*\" OR ABSTRACT:\"OCT\" OR ABSTRACT:\"optical coherence\") AND PUB_YEAR:2025 AND OPEN_ACCESS:y AND IN_EPMC:y",
+ "run_utc": "2026-09-22T22:21:33+00:00",
+ "hit_count": 1009,
+ "listed_lite": 1009,
+ "unique_pmcids": 1005,
+ "core_records": 1005,
+ "core_failed_pmcids": [],
+ "licence_counts": {
+  "cc by-nc-nd": 316,
+  "cc by-nc": 69,
+  "cc by": 608,
+  "cc by-nc-sa": 8,
+  "none": 3,
+  "cc by-sa": 1
+ },
+ "frame_size_after_filters": 542
+}
