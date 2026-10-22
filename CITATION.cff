@@ -3,7 +3,7 @@ message: "If you use this software or data, please cite the archived release and
 title: "Local-LLM methodology-risk screener for deep-learning medical-imaging papers"
 type: software
 version: 1.0.0
-date-released: 2026-12-01
+date-released: 2026-10-22
 license: MIT
 authors:
   - family-names: "Çelik"
