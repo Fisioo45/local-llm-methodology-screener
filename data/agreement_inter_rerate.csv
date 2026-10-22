@@ -1,6 +1,0 @@
-item,n,agreement,kappa,kappa_lo,kappa_hi
-A1_split_unit,20,0.6000,0.3962,0.0580,0.7015
-A4_test_for_selection,20,0.8000,0.6190,0.2727,0.9000
-B2_variability_reported,20,0.9000,0.7368,0.3421,1.0000
-C1_code_available,20,0.8500,0.6450,0.1379,1.0000
-C2_data_available,20,0.9000,0.8400,0.6063,1.0000
